@@ -14,7 +14,7 @@ Download the repositore and drag an drop index.html file into the browser.
 
 Currently, there is one example which generates 1000 random balls.
 
-![1000 balls animation](./example.png)
+![1000 balls animation](example.PNG)
 
 ## Usage
 
